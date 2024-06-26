@@ -2,6 +2,7 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'bootstrap4'
+    logo: yee.png
 
 # Extensions
 markdown_extensions:
